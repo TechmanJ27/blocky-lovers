@@ -9,5 +9,5 @@ Features:
 - Animations??
 
 Planned features:
-[X] Backport to Fabric 1.21.11
-[X] Backport to Fabric 1.21.1
+- [ ] Backport to Fabric 1.21.11
+- [ ] Backport to Fabric 1.21.1
