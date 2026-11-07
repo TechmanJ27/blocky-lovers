@@ -1,5 +1,5 @@
-# Lovely Hearts
-Lovely Hearts is a Minecraft mod for Fabric 26.3, designed to create wholesome interactions between players.
+# Blocky Lovers
+Blocky Lovers is a Minecraft mod for Fabric 26.3, designed to enable wholesome interactions between players.
 
 ## Still In Development
 Features:
